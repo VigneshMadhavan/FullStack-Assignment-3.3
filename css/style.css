@@ -1,0 +1,7 @@
+
+body#container{
+	background-color: blue;
+}
+#container header h1{
+	color: white;
+}
